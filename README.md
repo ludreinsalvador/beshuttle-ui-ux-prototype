@@ -1,4 +1,4 @@
-# BeShuttle: A Benilde E-Shuttle Tracker Companion Mobiule Applicaion | (UI/UX Design)
+# BeShuttle: A Benilde E-Shuttle Tracker Companion Mobile Applicaion | (UI/UX Design)
 **Project Collaborator/Contributor:** Mr. Joshua Vinson
 
 ## Figma Prototype
