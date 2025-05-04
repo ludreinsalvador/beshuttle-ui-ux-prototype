@@ -1,55 +1,82 @@
-# BeShuttle: A Benilde E-Shuttle Tracker Companion Mobile Application | (UI/UX Design)
+![Mockup](https://github.com/ludreinsalvador/beshuttle-ui-ux-design/blob/main/beshuttle-mockup.png)
+
+# BeShuttle: A Benilde E-Shuttle Tracker Companion Mobile Application
 **Project Collaborator:** Joshua Vinson
 
-## Figma Designs and Prototype  
+---
+
+## 🚀 Figma Designs and Prototype  
 🔗 **View the UI/UX Design:** [![Figma Design](https://img.shields.io/badge/Figma-Design-blue?logo=figma)](https://www.figma.com/design/C4ZpiRVb1JbIQXDKcskcCd/BeShuttle-Prototypes---UIUX?node-id=7-1777&t=kUixTEZ9awkFP32Y-1)  
 🔗 **View the High-Fidelity Prototype:** [![Figma Prototype](https://img.shields.io/badge/Figma-Prototype-blue?logo=figma)](https://www.figma.com/proto/C4ZpiRVb1JbIQXDKcskcCd/BeShuttle-Prototypes---UIUX?node-id=140-3692&scaling=scale-down&page-id=7%3A1777&starting-point-node-id=140%3A3692)
 
-## Project Overview  
-BeShuttle is a mobile application designed for **De La Salle-College of Saint Benilde (DLS-CSB)** to enhance the efficiency of its e-shuttle service. The app provides **real-time tracking**, **schedule monitoring**, and **rider count updates** to address issues such as **unpredictable shuttle timings** and **lack of real-time updates**.
+---
 
-## Key Features  
-- **GPS Real-Time Tracking** – Displays live shuttle locations.  
-- **Schedule Monitoring** – Provides real-time arrival times and notifications for delays.  
-- **Rider Count Updates** – Helps users manage shuttle availability and crowd levels.
+## 📱 Project Overview  
+**BeShuttle** is a mobile companion app developed for **De La Salle-College of Saint Benilde (DLS-CSB)** to enhance the e-shuttle experience. The application addresses common challenges like inconsistent shuttle timings and lack of updates by providing:
+- 🛰️ Real-time shuttle tracking  
+- 📅 Live schedule monitoring  
+- 👥 Rider count notifications
 
-## User Research Findings  
-- 65% of users struggled with tracking shuttle whereabouts.  
-- 35% expressed a need for rider count updates.  
-- 60% reported issues due to the lack of real-time notifications.  
-- **User Interviews:** Common frustrations included **inconsistent schedules** and **no live updates**.
+---
 
-## Competitive Analysis  
-Compared to similar apps like **Pasahero, Irenbus, and RideExpress**, BeShuttle is tailored specifically for the **DLS-CSB community**, offering shuttle tracking and scheduling without privacy concerns.
+## ✨ Key Features  
+- **GPS Real-Time Tracking** – Live updates on shuttle locations.  
+- **Schedule Monitoring** – Accurate arrival times, with alerts for delays.  
+- **Rider Count Updates** – Displays shuttle crowd level estimates.  
 
-## Wireframes & Prototype  
-The app features an intuitive interface with key screens:  
-- 🏠 **Home Screen** – Displays shuttle updates and schedules.  
-- 📍 **Tracker Screen** – Shows real-time shuttle locations.  
-- 📅 **Schedule Screen** – Allows users to check e-shuttle timetables.  
-- 🔢 **Update Screen** – Provides live rider count data.
+---
 
-## Design Assets
+## 🔍 User Research Insights  
+Findings from surveys and interviews:  
+- **65%** struggled to determine shuttle locations in real time.  
+- **35%** expressed the need for a feature showing rider count.  
+- **60%** reported inconvenience due to lack of notifications.  
+- Common frustrations: *inconsistent shuttle schedules* and *no real-time alerts*.
 
-### Low-Fidelity Key Screens  
+---
+
+## ⚖️ Competitive Analysis  
+Apps like **Pasahero**, **Irenbus**, and **RideExpress** offer similar features but fall short in privacy and school-specific integration.  
+**BeShuttle** stands out by being:
+- **Tailored for DLS-CSB students and staff**  
+- **Minimal in permissions & data collection**  
+- **Focused on safety and accuracy**
+
+---
+
+## 🧩 Wireframes & Prototype Screens  
+- 🏠 **Home** – Displays current status of e-shuttles  
+- 📍 **Tracker** – Shows shuttle’s live map location  
+- 📅 **Schedule** – Lists estimated arrival times  
+- 🔢 **Rider Count** – Displays occupancy of each shuttle  
+
+---
+
+## 🎨 Design Assets
+
+### Low-Fidelity Screens  
 ![Low-Fidelity Key Screens](low-fidelity-key-screens.png)
 
-### Prototype Key Screens  
+### High-Fidelity Prototype Screens  
 ![Prototype Key Screens](prototype-key-screens.png)
 
-### Interactive Mapping  
+### Interactive Mapping View  
 ![Interactive Mapping](interactive-mapping.png)
 
-### General Assets  
+### General UI Assets  
 ![Assets](assets.png)
 
-## Usability Testing & Enhancements  
-Based on user feedback, the following improvements were made:  
-- Added **password tooltips** for better sign-up clarity.  
-- Improved **profile customization** options.  
-- Modified **timetable layout** for better readability.  
-- Implemented **color-coded rider count system** for quick recognition.  
-- Introduced a **tutorial for new users** upon app launch.
+---
 
-## Conclusion  
-BeShuttle streamlines campus transportation by improving real-time visibility, scheduling, and rider experience. With continuous improvements based on user feedback, the app aims to make commuting within DLS-CSB more efficient and convenient.
+## 🔁 Usability Testing & Enhancements  
+Based on user testing, we implemented the following:  
+- 🛠️ Password tooltip guidance on signup  
+- 🎨 Better profile customization options  
+- 🗓️ Improved layout for shuttle timetables  
+- 🟥 Color-coded rider count system  
+- 📘 First-time user tutorial  
+
+---
+
+## ✅ Conclusion  
+BeShuttle improves mobility within DLS-CSB by delivering a smarter, more connected e-shuttle experience. With real-time data, intuitive design, and continuous iteration, the app empowers students and staff to commute with confidence and convenience.
