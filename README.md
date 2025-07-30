@@ -1,7 +1,9 @@
 ![Mockup](https://github.com/ludreinsalvador/beshuttle-ui-ux-design/blob/main/beshuttle-mockup.png)
 
 # BeShuttle: A Benilde E-Shuttle Tracker Companion Mobile Application
-**Project Collaborator:** Joshua Vinson
+**Project Collaborators:**
+- Ludrien Salvador: UX Researcher, UI/UX Designer, Documentation
+- Joshua Vinson: UX Researcher, Documentation 
 
 ---
 
